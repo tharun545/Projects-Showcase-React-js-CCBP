@@ -1,0 +1,49 @@
+.nav-bar-card {
+  background-color: #f1f5f9;
+  padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.logo-image {
+  width: 150px;
+  height: 65px;
+}
+
+.body-container {
+  background-color: #ffffff;
+  padding: 40px;
+  width: 100vw;
+}
+
+.option-selection {
+  width: 250px;
+  height: 40px;
+  padding: 10px;
+  outline: none;
+  border-radius: 10px;
+  border: 1px #cbd5e1 solid;
+  font-family: Roboto;
+}
+.project-item-container {
+  padding: 40px;
+  width: 90vw;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+
+.failure-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-icon {
+  width: 250px;
+  height: 250px;
+}
